@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="" alt="AI Virtual Air Drawing Analyser Game Banner" width="100%" />
-</p>
-
 <h1 align="center">🖐️ AI Virtual Air Drawing Analyser Game 🎮✍️</h1>
 
 <p align="center">
@@ -12,7 +8,13 @@
   <img src="https://img.shields.io/badge/WebApp-Flask-orange?style=flat-square" />
 </p>
 
----
+<br/>
+
+<p align="center">
+  <img src="Image.png" alt="AI Virtual Air Drawing Analyser Game Banner" width="100%" />
+</p>
+
+<br/>
 
 ## 📌 Case Study — AI Virtual Air Drawing Analyser Game
 
