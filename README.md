@@ -11,7 +11,7 @@
 <br/>
 
 <p><strong><span style="color:#e63946;">🖼️ Project Interface View</span></strong></p>
-<img src="Image.png" width="100%"/>
+<img src="image.png" width="100%"/>
 <br/>
 <p><strong><span style="color:#e63946;">🖼️ Data Uses- <br/> <br/> Apple data Images - </span></strong></p>
 <img src="apple dat.png" width="50%"/>
