@@ -10,9 +10,14 @@
 
 <br/>
 
-<p align="center">
-  <img src="Image.png" alt="AI Virtual Air Drawing Analyser Game Banner" width="100%" />
-</p>
+<p><strong><span style="color:#e63946;">🖼️ Project Interface View</span></strong></p>
+<img src="Image.png" width="100%"/>
+<br/>
+<p><strong><span style="color:#e63946;">🖼️ Data Uses- <br/> <br/> Apple data Images - </span></strong></p>
+<img src="apple dat.png" width="50%"/>
+<br/>
+<p><strong><span style="color:#e63946;">Mango data Images - </span></strong></p>
+<img src="Mango data.png" width="50%"/>
 
 <br/>
 
